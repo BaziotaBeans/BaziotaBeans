@@ -25,6 +25,9 @@
 ```    
     
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+```
+I am a student at the Catholic University of Angola, now I am in the fourth year and also programmer, I love design, IA, programming and all about UX/UI context...
+```
 
 ## 📍 The things I love
 
