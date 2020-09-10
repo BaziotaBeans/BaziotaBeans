@@ -5,7 +5,6 @@
 
 [![](https://img.shields.io/badge/LinkedIn-fábio-baziota-57b979174-blue)](https://www.linkedin.com/in/f%C3%A1bio-baziota-57b979174/)
 
-[![](https://img.shields.io/badge/Gmail-fabiobaziota%40gmail.com-red)](mailto:fabiobaziota@gmail.com)
 
 [![Instagram Badge](https://img.shields.io/badge/-baziotabeans-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/baziotabeans/)](https://www.instagram.com/baziotabeans/)
 [![Twitter Badge](https://img.shields.io/twitter/url?label=BaziotaBeans&style=social&url=https%3A%2F%2Ftwitter.com%2BaziotaBeans)](https://twitter.com/baziota)
