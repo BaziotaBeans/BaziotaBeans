@@ -6,12 +6,7 @@
 
 
 [![Instagram Badge](https://img.shields.io/badge/-baziotabeans-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/baziotabeans/)](https://www.instagram.com/baziotabeans/)
-
 [![Twitter Badge](https://img.shields.io/twitter/url?label=BaziotaBeans&style=social&url=https%3A%2F%2Ftwitter.com%2BaziotaBeans)](https://twitter.com/baziota)
-
-[![Twitter Badge](https://img.shields.io/twitter/url?label=BaziotaBeans&style=social&url=https%3A%2F%2Ftwitter.com%2FJefersonLuckas)](https://twitter.com/baziota)
-
-
 [![Gmail Badge](https://img.shields.io/badge/-fabiobaziota@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiobaziota@gmail.com)](mailto:fabiobaziota@gmail.com)
 
 
