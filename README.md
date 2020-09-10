@@ -2,8 +2,6 @@
 
 <h1 align="left"> Salute 🙏, I'm Fábio Baziota (Beans) </h1>
 <h2 align="left">Front-End Developer and Graphic Designer 👨‍💻</h2>
-<h3 align="left">I love programming, design, art and music 😂🎈😍</h3>
-
 
 [![Instagram Badge](https://img.shields.io/badge/-baziotabeans-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/baziotabeans/)](https://www.instagram.com/baziotabeans/)
 [![Twitter Badge](https://img.shields.io/twitter/url?label=BaziotaBeans&style=social&url=https%3A%2F%2Ftwitter.com%2BaziotaBeans)](https://twitter.com/baziota)
