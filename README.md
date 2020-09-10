@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='center' src="https://i.ibb.co/tzyS70q/6tXM.gif" width="230">
 
 <h1 align="left"> Salute 🙏, I'm Fábio Baziota (Beans) </h1>
 <h2 align="left">Front-End Developer and Graphic Designer 👨‍💻</h2>
@@ -36,7 +36,6 @@ programmer, I love design, IA, programming and all about UX/UI context...
 <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
 </p>
-```
 
                        
  #### See my projects and give Start  ⭐️ if adds value for yourself.                    
