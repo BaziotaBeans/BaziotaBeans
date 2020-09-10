@@ -12,7 +12,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-fabiobaziota@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiobaziota@gmail.com)](mailto:fabiobaziota@gmail.com)
 
 
-
+```
     * * * * * *          * * * * * *  *     * * * * * * *    * * * * *         *  * *         *   *  *
     *           *        *            *     *           *    *         *       *    *      *           *   
     *            *       *      *  *  *     *   * * *   *    *          *      *    *     *      * *    *  
@@ -24,7 +24,7 @@
     *            *       *      *  *  *     *   *   *   *    *     *     *          *      *    *      *
     *           *        *            *     *   *   *   *    *     *      *         *        *        *
     * * * * * *          * * * * * *  *     * * *   * * *    * * * *       * * * *  *           *  *
-    
+```    
     
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
