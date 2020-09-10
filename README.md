@@ -6,7 +6,9 @@
 
 
 [![Instagram Badge](https://img.shields.io/badge/-baziotabeans-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/baziotabeans/)](https://www.instagram.com/baziotabeans/)
+
 [![Twitter Badge](https://img.shields.io/twitter/url?label=BaziotaBeans&style=social&url=https%3A%2F%2Ftwitter.com%2BaziotaBeans)](https://twitter.com/baziota)
+
 [![Gmail Badge](https://img.shields.io/badge/-fabiobaziota@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiobaziota@gmail.com)](mailto:fabiobaziota@gmail.com)
 
 
@@ -25,9 +27,8 @@
 ```    
     
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-```
-I am a student at the Catholic University of Angola, now I am in the fourth year and also programmer, I love design, IA, programming and all about UX/UI context...
-```
+I am a student at the Catholic University of Angola, now I am in the fourth year and also 
+programmer, I love design, IA, programming and all about UX/UI context...
 
 ## 📍 The things I love
 
